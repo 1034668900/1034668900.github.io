@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o}from"./framework-6700cb35.js";const _={},n={class:"btn",href:"../../../guide/selfhome.md",style:{"text-decoration":"none"}};function c(s,a){return t(),o("a",n,"开始访问")}const d=e(_,[["render",c],["__scopeId","data-v-162b13ca"],["__file","HomeButton.vue"]]);export{d as default};
