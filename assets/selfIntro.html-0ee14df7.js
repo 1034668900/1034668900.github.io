@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-6700cb35.js";const o={},c=e("h1",{id:"你好呀",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#你好呀","aria-hidden":"true"},"#"),s(" 你好呀")],-1),n=[c];function _(d,l){return a(),r("div",null,n)}const f=t(o,[["render",_],["__file","selfIntro.html.vue"]]);export{f as default};
