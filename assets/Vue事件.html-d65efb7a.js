@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-76aba404","path":"/guide/blogs/myblogs/Vue%E4%BA%8B%E4%BB%B6.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1683985072000,"contributors":[{"name":"marical","email":"1034668900@qq.com","commits":1}]},"filePathRelative":"guide/blogs/myblogs/Vue事件.md"}');export{e as data};
