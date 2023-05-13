@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-009f0e19","path":"/guide/blogs/myblogs/pinia-store%E7%AE%80%E4%BB%8B.html","title":"","lang":"zh-CN","frontmatter":{"sidebar":"auto"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/blogs/myblogs/pinia-store简介.md"}');export{t as data};
