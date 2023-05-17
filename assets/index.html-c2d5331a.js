@@ -1,1 +1,0 @@
-import{_ as o,M as n,p as t,q as c,N as _}from"./framework-6700cb35.js";const r={};function s(a,l){const e=n("Home");return t(),c("div",null,[_(e)])}const d=o(r,[["render",s],["__file","index.html.vue"]]);export{d as default};
