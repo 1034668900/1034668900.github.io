@@ -1,1 +1,0 @@
-import{_ as n,M as o,p as t,q as c,N as r}from"./framework-6700cb35.js";const _={};function s(l,a){const e=o("SelfIntro");return t(),c("div",null,[r(e)])}const m=n(_,[["render",s],["__file","index.html.vue"]]);export{m as default};
